@@ -1,0 +1,13 @@
+Package: editeur-universel-dbgsym
+Package-Type: ddeb
+Source: editeur-universel
+Version: 1.0-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Simon <simondrieux@gmail.com>
+Installed-Size: 508
+Depends: editeur-universel (= 1.0-1)
+Section: debug
+Priority: optional
+Description: debug symbols for editeur-universel
+Build-Ids: 4c7b225dc2e60a4a669c4445633be0e8301f0e10

@@ -1,0 +1,5 @@
+editeur-universel (1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Simon <simondrieux@gmail.com>  Thu, 07 Mar 2019 15:41:16 -0500

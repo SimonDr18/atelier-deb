@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Thu, 07 Mar 2019 15:41:16 -0500
+Source: editeur-universel
+Binary: editeur-universel
+Architecture: source amd64
+Version: 1.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Simon <simondrieux@gmail.com>
+Changed-By: Simon <simondrieux@gmail.com>
+Description:
+ editeur-universel - <insert up to 60 chars description>
+Changes:
+ editeur-universel (1.0-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 6b3634f925504fc54f921ca71d4e1f19e7e2f1e3 894 editeur-universel_1.0-1.dsc
+ fc70bf1db7025935af81aa30185cf56053618811 158880 editeur-universel_1.0.orig.tar.xz
+ 295c800605fe7b056407d4e23ce3c28e0bf2a131 7612 editeur-universel_1.0-1.debian.tar.xz
+ 9dd183c60c25c81b8b7068b456bca4a85ea93446 493404 editeur-universel-dbgsym_1.0-1_amd64.ddeb
+ d7a7b36b17854461a0f2c61b949b773dc0af6241 6195 editeur-universel_1.0-1_amd64.buildinfo
+ 5fe33ab0ad2cfec9dbbbacbd34d182cbe381b425 29168 editeur-universel_1.0-1_amd64.deb
+Checksums-Sha256:
+ 0d85c6767b078851d9cae58c135b5216b6c2eb01973b5c62e89a02829c34d18b 894 editeur-universel_1.0-1.dsc
+ 07bbee2a1e07758569a51c42f206a121126cbfa2945c2d3fa76a61fc093ab22c 158880 editeur-universel_1.0.orig.tar.xz
+ c69a9436b466153933b0d36732e9033290784f76b5997862de1b33a059f20a18 7612 editeur-universel_1.0-1.debian.tar.xz
+ 5867ad9758a92854a1e7f8f0216ea317e8527c4bca531bcf6c0cbb8f47869a66 493404 editeur-universel-dbgsym_1.0-1_amd64.ddeb
+ cc949deaa696d027e89dc5f230c86170fd31dd64031f61b956eed7633cdb03af 6195 editeur-universel_1.0-1_amd64.buildinfo
+ d3a6dd7f93c86434054be10d99860b7a24775bcc64814706c616ab51f50e5b98 29168 editeur-universel_1.0-1_amd64.deb
+Files:
+ 90f52361ce47acab4960b974879bbfb8 894 unknown optional editeur-universel_1.0-1.dsc
+ 98f36e76078d07eb9a10317d0179d8c3 158880 unknown optional editeur-universel_1.0.orig.tar.xz
+ 76397a5362d8b2c8672ac2a5475da4b4 7612 unknown optional editeur-universel_1.0-1.debian.tar.xz
+ 2bdc83dc0b904773c3396f7b7f956c02 493404 debug optional editeur-universel-dbgsym_1.0-1_amd64.ddeb
+ 3120b9a632bc02f0be760de8ad21a798 6195 unknown optional editeur-universel_1.0-1_amd64.buildinfo
+ 83862c77c9e20a0432d52d001724fb16 29168 unknown optional editeur-universel_1.0-1_amd64.deb
